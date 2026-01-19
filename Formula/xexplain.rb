@@ -1,8 +1,8 @@
 class Xexplain < Formula
   desc "System Intelligence CLI for macOS - btop-like monitor with AI insights"
   homepage "https://github.com/xdev-asia-labs/xExplain"
-  url "https://github.com/xdev-asia-labs/xExplain/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "25e0c7fadae2c67fc7f60214c8caf6914a4ed50f50841de389467535173bb680"
+  url "https://github.com/xdev-asia-labs/xExplain/archive/refs/tags/v1.1.0.tar.gz"
+  sha256 "921cf94ef26c59b718c2f9278f53cb0daa368d2827144b9f5a8cc56145c3361a"
   license "MIT"
   head "https://github.com/xdev-asia-labs/xExplain.git", branch: "main"
 
